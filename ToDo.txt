@@ -24,3 +24,5 @@ Nice to have:
 >forgot username
 -mata info från imdb
 -coverpage på filmer
+
+test
